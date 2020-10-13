@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppNinePatch</string>
+    <string name="text_bienvenido">Bienvenido</string>
+    <string name="text_entrar">Entrar</string>
+</resources>
